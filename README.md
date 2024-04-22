@@ -12,5 +12,3 @@
 >[Forgejo instance](https://git.madhouselabs.net/).
 >
 >You can also check out my socials from my [website](https://cirroskais.xyz/).
-
-![](https://cirroskais.xyz/background.jpg)
