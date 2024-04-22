@@ -6,7 +6,7 @@
 >
 >If you need to contact me for any reason regarding  
 >these works, I'll try to make time for you, but I  
->cannot garuntee that I will help.
+>cannot guarantee that I will help.
 >
 >You can find all of my new stuff on my team's  
 >[Forgejo instance](https://git.madhouselabs.net/).
