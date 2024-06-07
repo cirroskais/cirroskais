@@ -1,14 +1,4 @@
->[!NOTE]
->I don't really use GitHub anymore.
->
->Everything here is kept for archival purposes, and is not  
->representative of my current work.
->
->If you need to contact me for any reason regarding  
->these works, I'll try to make time for you, but I  
->cannot guarantee that I will help.
->
->You can find all of my new stuff on my team's  
->[Forgejo instance](https://git.madhouselabs.net/).
->
->You can also check out my socials from my [website](https://cirroskais.xyz/).
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/1125696052385808464/1247734918361124955/boyskissing.gif?ex=666466f2&is=66631572&hm=f48e2dd0f0012267d11dc50194cb813c783d072dcddff5bb7bab671ebba01014&');]{x0000}$}
+```
